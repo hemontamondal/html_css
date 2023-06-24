@@ -1,0 +1,162 @@
+*{
+	font-family: sans-serif;
+}
+
+
+.hero-image{
+	background-image: url(../images/woman.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 400px;
+}
+h2{
+	color: black;
+}
+h2.design{
+	color: white;
+	color: black;
+/*	background-color: tomato;*/
+	padding: 16px 26px;
+	text-align: center;
+	border: 2px solid #854646;
+}
+h3{
+	text-align: center;
+	color: black;
+	font-size: 30px;
+}
+p{
+	font-size: 20px;
+	color: black;
+	text-align: center;
+}
+#Sony{
+	text-align: left;
+	font-size: 44px;
+	color: darkred;
+}
+#para1{
+	text-align: left;
+	font-size: 18px;
+}
+.center{
+	text-align: left;
+	padding: 0;
+	border: none;
+}
+.iphone{
+	text-align: left;
+}
+h4.iphone{
+	font-size: 30px;
+}
+p.iphone{
+	color: #c7a6a0;
+}
+p.ipbackground{
+	background-color: #721717;
+	padding: 10px;
+}
+
+div *{
+	text-align: left;
+	font-size: 16px;
+}
+div h5{
+	font-size: 26px;/*This property is very important*/
+	margin: 0;
+}
+h2.one{
+	border-width:4px;
+	border-style: dashed;
+	border-color:red;
+}
+h2.two{
+	border-width:4px;
+	border-style: double;
+	border-color: green;
+}
+h2.three{
+	border-width:thick;
+	border-style: dotted;
+	border-color: blue;
+}
+h2.four{
+	border-width:4px;
+	border-color: darkred;
+	border-top-style: dotted;
+	border-right-style: solid;
+	border-bottom-style: dashed;
+	border-left-style: double;
+}
+h2.five{
+	border-width:24px;
+	border-style: double;
+	border-color: tomato;
+}
+.unlist2 ul{
+	background-color: #ff9999;
+	padding: 26px;
+}
+.unlist2 ul li{
+	background-color: #ffe5e5;
+	padding: 6px;
+	color: darkred;
+	margin: 0px 30px;
+}
+.ollist1 ol{
+	background-color: #f1f1f1;
+	padding: 14px 36px;
+	border-left: 5px solid red;
+	list-style-type: none;
+	line-height: 24px;
+}
+.ollist2 ol{
+	list-style-type: none;
+	border:1px solid #87a17b;
+	padding: 0;
+}
+.ollist2 ol li{
+	border-bottom: 1px solid #87a17b;
+	padding: 10px 20px;
+}
+.ollist2 ol li:last-child{
+	border-bottom: none;
+}
+.ollist2sub{
+	border-left:1px solid #87a17b;
+	padding: 0;
+	margin-left: 30px;
+}
+.ollist2sub li{
+	padding: 10px 8px !important;
+}
+
+table.center{
+	width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+}
+table, th, td{
+	border:1px solid black;
+	border-collapse: collapse;
+}
+th, td{
+	padding: 10px;
+}
+.tablecreate1{
+	width: 400px;
+	margin:auto;
+
+}
+.table3 table{
+	width: 70%;
+	margin: auto;
+	margin-top: 20px;
+}
+.table3 table, .table3 th, .table3 td{
+	background-color: #96D4D4;
+	border:1px solid white;
+}
+
